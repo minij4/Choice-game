@@ -1,0 +1,7 @@
+D:\IT\C#\Story\Story\bin\Debug\Story.exe.config
+D:\IT\C#\Story\Story\bin\Debug\Story.exe
+D:\IT\C#\Story\Story\bin\Debug\Story.pdb
+D:\IT\C#\Story\Story\obj\Debug\Story.csprojAssemblyReference.cache
+D:\IT\C#\Story\Story\obj\Debug\Story.csproj.CoreCompileInputs.cache
+D:\IT\C#\Story\Story\obj\Debug\Story.exe
+D:\IT\C#\Story\Story\obj\Debug\Story.pdb
