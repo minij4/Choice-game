@@ -6,4 +6,3 @@
 
 ### Technologies used :
 * **C#**
-* **.NET**
